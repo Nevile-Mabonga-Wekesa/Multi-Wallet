@@ -63,5 +63,74 @@ This project is a multi-wallet microfinance platform designed to manage users, l
 
 ✅ Core user management implemented
 ✅ Wallets and transaction system implemented
+
+
+
+
+# Multi-Wallet Microfinance SaaS – Phase 2
+
+## Overview
+
+Phase 2 expands the core system to prepare for early client adoption, adding advanced user management, enhanced loan features, transaction improvements, reporting, and security compliances.
+## Features Implemented in Phase 2
+
+### **User & Wallet Enhancements**
+
+* Multi-level roles: Admin, Loan Officer, User
+* KYC / ID verification integration
+* Wallet limits, tiers, and automated alerts
+* Multi-currency support
+
+### **Loan & Credit Management**
+
+* Flexible loan plans (interest rate, repayment schedule)
+* Automated loan approval workflows
+* Loan repayment reminders via email/SMS
+* Loan history tracking per user
+
+### **Transaction Enhancements**
+
+* Batch transactions for salaries, agent payouts
+* Transaction history export (CSV, PDF)
+* Basic fraud detection
+
+### **Reporting & Analytics**
+
+* Admin/Loan Officer dashboards
+* Key metrics: total loans, repayments, defaults, wallet balances
+* Downloadable reports for audits and compliance
+
+### **Security & Compliance**
+
+* Two-factor authentication (2FA)
+* Role-based access control
+* Data encryption at rest and in transit
+* Compliance checks for microfinance regulations
+
+### **Client Onboarding & Early Adoption**
+
+* Client signup flow for microfinance institutions
+* Admin panel to manage branches, staff, and wallet settings
+* Demo environment for prospective clients
+* Early adopter feedback loop
+
+## Tech Stack
+
+* Backend: Python, FastAPI
+* Database: PostgreSQL
+* Migrations: Alembic
+* Frontend: React (optional for dashboards)
+* API Testing: Postman / cURL
+
+## Phase 2 Status
+
+✅ Enhanced user and wallet management implemented
+✅ Loan management workflows ready
+✅ Transaction improvements in place
+✅ Dashboards and reporting started
+✅ Security and compliance integrated
+✅ Client onboarding flow ready for testing
+
+
 ✅ Basic loan issuance implemented
 ✅ API ready for internal testing
